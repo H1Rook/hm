@@ -9,6 +9,8 @@ Before started:
 
 4. run project
 
+5. The default page is https://localhost:8080
+
 
 How to use:
 
