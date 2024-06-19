@@ -13,7 +13,8 @@ Before started:
 
 
 How to use:
+1. use broswer to access : https://localhost:8080 and press F12 for developer tools
 
-1. Click the bottom on the right cornor to login
+2. Click the bottom on the right cornor to login
     Find the verify code in console
 2. After login you can browse the content of app 
